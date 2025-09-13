@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Proffesional **DevOps Engineer** passionate about automation, cloud computing, and CI/CD pipelines. I have hands-on experience with various DevOps tools and platforms and continuously strive to enhance my skills.
+I'm a professional **DevOps Engineer** passionate about automation, cloud computing, and CI/CD pipelines. I have hands-on experience with various DevOps tools and platforms and continuously strive to enhance my skills.
 
 ### 🔧 Tech Stack & Skills
 
